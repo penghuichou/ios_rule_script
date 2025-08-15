@@ -53,4 +53,5 @@ payload:
   - DOMAIN-SUFFIX,players.brightcove.net
   - DOMAIN-SUFFIX,warnermediacdn.com
   - DOMAIN-SUFFIX,youboranqs01.com
+  - DOMAIN-SUFFIX,discomax.com
   - PROCESS-NAME,com.hbo.hbonow
